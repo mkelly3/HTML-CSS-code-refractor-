@@ -1,15 +1,31 @@
 # HTML CSS Code Refractor
 
-## Description
-Refracted existing code to make it more accessible. Changed non-semantic elements to sematic ones and consolidated existing code to reduce redundency. The changes made to the existing code include class names that are applicable to multiple sections and applicable HTML semantic elements. 
+## Picture Home Page
+![Horesion](https://user-images.githubusercontent.com/16613950/191856666-711392c6-daba-438a-a38f-673a7de89cb5.JPG)
 
-## Installation
+## Technologies Used
+- HTML 
+- CSS 
+- Git 
+- GitHub 
 
-N/A
-
-## Usage
-
-To use this Website click on the section bars at the top labeled Search Engine Optimization, Online Reputation Managment and Social Media Marketing. Once the names are clicked it the webpage will take you to another section which has more information pertaining to each topic. Additionally, at the bottom of the page there are three other benefits to chosing the client. 
+## Code Snipet 
+`<header class = header>
+    <h1>Horiseon</h1>
+    <nav class = nav>
+        <ul>
+            <li>
+                <a href="#search-engine-optimization">Search Engine Optimization</a>
+            </li>
+            <li>
+                <a href="#online-reputation-management">Online Reputation Management</a>
+            </li>
+            <li>
+                <a href="#social-media-marketing">Social Media Marketing</a>
+            </li>
+        </ul>
+    </nav>
+    </header>`
 
 ## Credits
 
